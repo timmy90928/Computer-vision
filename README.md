@@ -1,6 +1,6 @@
 Computer vision
 ===============
-Copyright © 2023 WeiWen Wu
+[![Author](https://img.shields.io/badge/Author-%20WeiWen%20Wu-blue)](https://github.com/timmy90928) ![GitHub last commit](https://img.shields.io/github/last-commit/timmy90928/Computer-vision) ![GitHub repo size](https://img.shields.io/github/repo-size/timmy90928/Computer-vision)
 
 HW1
 ---
@@ -166,3 +166,5 @@ HW9 upload the print screen of classification result of cats and dogs
 (HW9上傳貓狗分類結果列印畫面)
 
 [![result.png](./result.png)](./result.png)
+
+Copyright © 2024 Wei-Wen Wu
